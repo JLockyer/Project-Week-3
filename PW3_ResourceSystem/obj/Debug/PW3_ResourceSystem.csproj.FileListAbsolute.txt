@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PW3_ResourceSystem\PW3_ResourceSystem\bin\Debug\PW3_ResourceSystem.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PW3_ResourceSystem\PW3_ResourceSystem\obj\Debug\PW3_ResourceSystem.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PW3_ResourceSystem\PW3_ResourceSystem\bin\Debug\PW3_ResourceSystem.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PW3_ResourceSystem\PW3_ResourceSystem\bin\Debug\PW3_ResourceSystem.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PW3_ResourceSystem\PW3_ResourceSystem\obj\Debug\PW3_ResourceSystem.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PW3_ResourceSystem\PW3_ResourceSystem\obj\Debug\PW3_ResourceSystem.pdb
