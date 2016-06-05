@@ -11,7 +11,7 @@ namespace PW3_ResourceSystem
     {
         public void mainMenu()
         {
-            //Intantiate classes into menu
+            //Instantiate classes into menu
             Student student = new Student();
             DVD dvd = new DVD();
             Magazine mag = new Magazine();
